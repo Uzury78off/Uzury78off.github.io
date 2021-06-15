@@ -15,7 +15,7 @@
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
-  margin: 0 189px 0 auto;
+  margin: 0 189px 0 213px;
 }
 
 .u-section-1 .u-image-1 {
@@ -90,17 +90,17 @@
 
 .u-section-1 .u-text-5 {
   font-weight: 700;
-  margin: 9px 466px 0 34px;
+  margin: 9px 450px 0 34px;
 }
 
 .u-section-1 .u-text-6 {
   font-weight: 700;
-  margin: -24px 240px 0 264px;
+  margin: -24px 228px 0 264px;
 }
 
 .u-section-1 .u-text-7 {
   font-weight: 700;
-  margin: -24px 12px 0 492px;
+  margin: -24px 19px 0 492px;
 }
 
 @media (max-width: 1199px) {
@@ -131,6 +131,7 @@
 
   .u-section-1 .u-text-1 {
     margin-right: 172px;
+    margin-left: 186px;
   }
 
   .u-section-1 .u-text-2 {
@@ -156,6 +157,7 @@
   }
 
   .u-section-1 .u-text-7 {
+    margin-right: 12px;
     margin-left: 447px;
   }
 }
@@ -171,6 +173,7 @@
 
   .u-section-1 .u-text-1 {
     margin-right: 108px;
+    margin-left: 86px;
   }
 
   .u-section-1 .u-image-2 {
@@ -206,4 +209,14 @@
   .u-section-1 .u-text-7 {
     margin-left: 281px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 80px;
+}
+
+.audiovexento {
+	width: 50%;
+	height: 50%;
+    text-align: center;
+	margin; auto;
+    
 }

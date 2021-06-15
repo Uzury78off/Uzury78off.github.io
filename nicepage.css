@@ -33726,7 +33726,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 508px;
+  min-height: 125px;
 }
 
 .u-footer .u-social-icons-1 {
@@ -33779,7 +33779,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-5 {
   width: 417px;
-  margin: 31px auto 60px;
+  margin: 31px auto 15px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
@@ -33850,3 +33850,11 @@ a.u-link.u-text-hover-grey-90:hover {
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/
+ 
+ .audiovexento {
+	width: 50%;
+	height: 50%;
+    text-align: center;
+	margin; auto;
+    
+}
