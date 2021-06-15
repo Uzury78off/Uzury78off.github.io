@@ -1,0 +1,215 @@
+.u-section-1 {
+  background-image: url("images/fr-minecraft_wallpaper_OBL21.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 637px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 114px;
+  height: 114px;
+  margin: 30px auto 0 285px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 114px;
+  height: 114px;
+  margin: -114px auto 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 114px;
+  height: 114px;
+  margin: -114px 285px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 9px auto 0 261px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  font-size: 0.875rem;
+  margin: -39px auto 0 310px;
+}
+
+.u-section-1 .u-image-4 {
+  width: 114px;
+  height: 114px;
+  margin: 59px auto 0 285px;
+}
+
+.u-section-1 .u-image-5 {
+  width: 114px;
+  height: 114px;
+  margin: -114px auto 0 513px;
+}
+
+.u-section-1 .u-image-6 {
+  width: 114px;
+  height: 114px;
+  margin: -114px 285px 0 auto;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 700;
+  margin: 9px auto 0 295px;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 700;
+  width: 91px;
+  margin: -24px auto 0;
+}
+
+.u-section-1 .u-text-7 {
+  font-weight: 700;
+  margin: -24px 297px 60px 753px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 525px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-left: 185px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-left: 413px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-left: 641px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 197px;
+    margin-left: 653px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 402px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 200px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 237px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-left: 143px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-left: 371px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-left: 464px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 226px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 87px;
+    margin-bottom: 0;
+    margin-left: 543px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 302px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 150px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 178px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-left: 284px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-left: 284px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 170px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 0;
+    margin-left: 450px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 190px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 226px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-right: 226px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -4px;
+    margin-left: 94px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 112px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 43px;
+    margin-left: 113px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-left: 113px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-right: 226px;
+    margin-left: 113px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 107px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 250px;
+  }
+}
