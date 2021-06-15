@@ -8,7 +8,7 @@ $form = array(
     'success_redirect' => '',
     'sendIpAddress' => true,
     'email' => array(
-    'from' => '',
+    'from' => 'uzury377778@gmail.com',
     'to' => 'uzury377778@gmail.com'
     ),
     'fields' => array(
